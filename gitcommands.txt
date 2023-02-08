@@ -1,0 +1,9 @@
+git init
+
+git branch -m main // rename a brach
+
+git status
+
+git log 
+
+git add .
