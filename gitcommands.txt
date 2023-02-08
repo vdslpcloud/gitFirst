@@ -9,3 +9,6 @@ git log
 git add .
 
 git add <<filename>>
+
+git revert -n <<first 6 of commit to be reverted>>
+
