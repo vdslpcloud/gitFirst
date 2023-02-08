@@ -9,6 +9,3 @@ git log
 git add .
 
 git add <<filename>>
-
-dummy
-
