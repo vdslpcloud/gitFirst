@@ -2,3 +2,6 @@ test file
 
 text added in main
 changed in dev1
+
+
+new line added 
