@@ -8,5 +8,7 @@ new line added
 changed in github
 
 Local change 
+stash changes 
+
 
 remote chnage
