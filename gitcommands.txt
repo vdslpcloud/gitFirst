@@ -15,5 +15,3 @@ git revert -n <<first 6 of commit to be reverted>>
 git revert  Head -- reverts only 1 version
 
 git reset -- reset with out history
-
-aaaaaaaaaaaaaaaaaaaa
